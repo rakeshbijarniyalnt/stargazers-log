@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "octocat/hello-world",
+    "title": "Hello World",
+    "description": "A friendly starter project for learning GitHub workflows.",
+    "language": "HTML",
+    "stars": 1280,
+    "date": "2026-08-01"
+  },
+  {
+    "id": 2,
+    "name": "microsoft/vscode",
+    "title": "Visual Studio Code",
+    "description": "Code editing. Redefined.",
+    "language": "TypeScript",
+    "stars": 154000,
+    "date": "2026-07-28"
+  },
+  {
+    "id": 3,
+    "name": "freeCodeCamp/freeCodeCamp",
+    "title": "freeCodeCamp",
+    "description": "Learn to code for free with millions of other people.",
+    "language": "JavaScript",
+    "stars": 390000,
+    "date": "2026-07-22"
+  }
+]
